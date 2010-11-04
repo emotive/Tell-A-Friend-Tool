@@ -12,4 +12,4 @@ email subject
 
 That's it.
 
-Special thanks to Matt Briney for adding the email formatting check script.
+Special thanks to Matt Briney for adding the email formatting check script and John Briney for designing the add friends button graphic.
