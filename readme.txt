@@ -11,3 +11,5 @@ Open the config.php file and set the following parameters
 email subject
 
 That's it.
+
+Special thanks to Matt Briney for adding the email formatting check script.
